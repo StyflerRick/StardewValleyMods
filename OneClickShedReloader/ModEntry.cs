@@ -50,19 +50,19 @@ namespace BitwiseJonMods
             "Recycling Machine",
             "Seed Maker",
             "Auto-Grabber",
-            "Butter Churn,
+            "Butter Churn",
             "Traditional Butter Churn LF",
-            "Camembert Cheese Press",
-            "Cheddar Cheese Press",
-            "Emmental Cheese Press",
-            "Gorgonzola Cheese Press",
-            "Gouda Cheese Press",
-            "Gruyere Cheese Press",
-            "Limburger Cheese Press",
-            "Metton Cheese Press",
-            "Mozzarella Cheese Press",
-            "Parmesan Cheese Press",
-            "Tomme de Savoie Press"
+            "Camembert Cheese Press LF",
+            "Cheddar Cheese Press LF",
+            "Emmental Cheese Press LF",
+            "Gorgonzola Cheese Press LF",
+            "Gouda Cheese Press LF",
+            "Gruyere Cheese Press LF",
+            "Limburger Cheese Press LF",
+            "Metton Cheese Press LF",
+            "Mozzarella Cheese Press LF",
+            "Parmesan Cheese Press LF",
+            "Tomme de Savoie Press LF"
         };
 
         private GameLocation _currentTileLocation = null;
